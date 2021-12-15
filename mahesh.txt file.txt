@@ -1,7 +1,4 @@
-git commands are formd by linux only
-tail
-cut
-sed
+git commands are formd by linux onlyt 
 copy
 move
 sort
@@ -10,3 +7,7 @@ git merge
 git show 
 git add
 
+git push
+git pull
+git clone
+git fetch
