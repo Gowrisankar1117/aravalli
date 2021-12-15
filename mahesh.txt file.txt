@@ -1,0 +1,12 @@
+git commands are formd by linux only
+tail
+cut
+sed
+copy
+move
+sort
+git commit 
+git merge 
+git show 
+git add
+
